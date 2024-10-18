@@ -30,7 +30,7 @@ The 'heart.csv' dataset contains 75 particulars of 303 people. These particulars
 
 ## Author
 
-Shehab Adel Ramadan
+Shehab Adel Ramadan Moharram
 
 ## License
 
